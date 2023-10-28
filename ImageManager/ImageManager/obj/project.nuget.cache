@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9sBffeKX6tl00nQf20pxEVn65bzOrZqF8qZINT09a6INCKTp5FVvgCN9nBWrqnFYGrLbL6eWAu1rDQTWut1sAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAGA\\OneDrive\\Desktop\\Coding\\Coding\\ImageManager\\ImageManager\\ImageManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAGA\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\MAGA\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
