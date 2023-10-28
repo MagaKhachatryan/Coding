@@ -1,5 +1,4 @@
 ﻿using ImageManager.Plugins;
-using System.Drawing;
 namespace ImageManager
 {
     public interface IImageModifier
